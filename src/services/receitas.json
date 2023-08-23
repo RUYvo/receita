@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "titulo": "Lasanha à Bolonhesa",
+      "ingredientes": ["massa de lasanha", "carne moída", "molho de tomate", "queijo"],
+      "modoPreparo": "Cozinhe a massa, faça o molho com a carne moída e o molho de tomate, alterne camadas de massa, molho e queijo, e asse no forno."
+    },
+    {
+      "id": 2,
+      "titulo": "Salada Caesar",
+      "ingredientes": ["alface romana", "croutons", "queijo parmesão", "molho caesar"],
+      "modoPreparo": "Misture a alface com croutons, queijo parmesão e molho caesar."
+    },
+    {
+      "id": 3,
+      "titulo": "Salmão Grelhado",
+      "ingredientes": ["filé de salmão", "azeite", "limão", "ervas"],
+      "modoPreparo": "Tempere o filé de salmão com azeite, limão e ervas, e grelhe até ficar cozido."
+    },
+    {
+      "id": 4,
+      "titulo": "Arroz de Frango",
+      "ingredientes": ["peito de frango", "arroz", "legumes", "caldo de galinha"],
+      "modoPreparo": "Cozinhe o peito de frango, desfie e refogue com arroz, legumes e caldo de galinha."
+    },
+    {
+      "id": 5,
+      "titulo": "Pudim de Leite Condensado",
+      "ingredientes": ["leite condensado", "leite", "ovos", "açúcar"],
+      "modoPreparo": "Misture os ingredientes, faça uma calda de açúcar no fundo da forma, despeje a mistura e asse em banho-maria."
+    }
+  ]
+  
